@@ -110,7 +110,7 @@ body {
 }
 
 .toggle-form-btn {
-  background-color: #8e44ad;
+  background-color: #17aef4;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -129,7 +129,7 @@ body {
 }
 
 .add-task-btn {
-  background-color: #8e44ad;
+  background-color: #400bff;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -161,7 +161,7 @@ body {
 }
 
 .task-list li.completed {
-  background-color: lightgreen;
+  background-color: rgb(144, 219, 238);
   border: 1px solid red;
 }
 
@@ -171,7 +171,7 @@ body {
 }
 
 .task-list li button {
-  background-color: #8e44ad;
+  background-color: #6b4eeb;
   color: white;
   border: none;
   padding: 5px 10px;
